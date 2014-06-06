@@ -1,0 +1,7 @@
+.editor . gutter .line-number .folder{
+   color: #5bfeff
+  }
+  .fold-marker:after{
+     content: "   00#";
+     
+  }
